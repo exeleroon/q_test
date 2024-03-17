@@ -14,7 +14,7 @@ after changing of password new password will be awailable untill closing browser
 
 ## Dev
 
-* https://pokemons-orpin.vercel.app/ - site
+* https://master--q-code-test.netlify.app/password-set - site
 * https://auth-qa.qencode.com - back-end
 * docs - https://auth-qa.qencode.com/v1/auth-api-references
 * api version - 1
